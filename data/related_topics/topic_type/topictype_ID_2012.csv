@@ -1,0 +1,183 @@
+Source,Target,Weight
+Honda Brio,Car model,100
+Honda Brio,Automobile make,99
+Honda Brio,Topic,35
+Honda Brio,Transportation mode,26
+Honda Brio,Multinational conglomerate company,10
+Honda Brio,Subcompact car,8
+Honda Brio,Automobile make,6
+Honda Brio,Topic,5
+Honda Brio,Topic,4
+Honda Brio,Topic,3
+Honda Brio,Automobile make,3
+Honda Brio,Car model,3
+Honda Brio,Topic,3
+Honda Brio,Car model,3
+Honda Brio,Topic,3
+Honda Brio,Car model,3
+Honda Brio,Subcompact,3
+Honda Brio,Transmission classification,3
+Honda Brio,Topic,2
+Honda Brio,Automotive manufacturer,2
+Honda Brio,Company,2
+Honda Brio,Transmission,2
+Honda Brio,Topic,2
+Honda Brio,Automobile company,2
+Suzuki Ertiga,Car model,100
+Suzuki Ertiga,Automobile make,100
+Suzuki Ertiga,Automobile company,78
+Suzuki Ertiga,Topic,34
+Suzuki Ertiga,Transportation mode,27
+Suzuki Ertiga,Automobile make,9
+Suzuki Ertiga,Automobile make,8
+Suzuki Ertiga,Topic,7
+Suzuki Ertiga,Car model,6
+Suzuki Ertiga,Fuel,5
+Suzuki Ertiga,Car model,5
+Suzuki Ertiga,Topic,4
+Suzuki Ertiga,Topic,4
+Suzuki Ertiga,Topic,4
+Suzuki Ertiga,Topic,3
+Suzuki Ertiga,Topic,3
+Suzuki Ertiga,Topic,3
+Suzuki Ertiga,Automotive manufacturer,3
+Suzuki Ertiga,Topic,3
+Suzuki Ertiga,Suvs,3
+Suzuki Ertiga,Technical standard,3
+Suzuki Ertiga,Topic,3
+Mobil Esemka,Transportation mode,100
+Mobil Esemka,Topic,94
+Mobil Esemka,International airline,8
+Mobil Esemka,President of Indonesia,4
+Mobil Esemka,Topic,3
+Mobil Esemka,Building use,3
+Mobil Esemka,Topic,2
+Mobil Esemka,Automotive company,2
+Mobil Esemka,Topic,2
+Mobil Esemka,Company,2
+Mobil Esemka,Vice President of Indonesia,1
+Mobil Esemka,Indonesian regency,1
+Mobil Esemka,Topic,1
+Mobil Esemka,Topic,1
+Mobil Esemka,Topic,0
+Mobil Esemka,Former President of Indonesia,0
+Mobil Esemka,Topic,0
+Nissan Evalia,Van,100
+Nissan Evalia,Automobile make,99
+Nissan Evalia,Transportation mode,25
+Nissan Evalia,Automobile manufacturer,14
+Nissan Evalia,Subsidiary,10
+Nissan Evalia,Topic,9
+Nissan Evalia,Topic,8
+Nissan Evalia,Topic,6
+Nissan Evalia,Car model,6
+Nissan Evalia,Topic,5
+Nissan Evalia,Topic,4
+Nissan Evalia,Technical standard,4
+Nissan Evalia,Automobile make,3
+Nissan Evalia,Project role,3
+Nissan Evalia,Car model,3
+Nissan Evalia,Automobile make,3
+Nissan Evalia,Automobile company,3
+Nissan Evalia,Company,3
+Nissan Evalia,Topic,3
+Daihatsu Ayla,Automobile make,100
+Daihatsu Ayla,Car model,98
+Daihatsu Ayla,Automobile manufacturer,76
+Daihatsu Ayla,Topic,50
+Daihatsu Ayla,Transportation mode,36
+Daihatsu Ayla,Topic,28
+Daihatsu Ayla,Automobile make,20
+Daihatsu Ayla,Car model,12
+Daihatsu Ayla,Automobile make,12
+Daihatsu Ayla,Topic,10
+Daihatsu Ayla,Topic,10
+Daihatsu Ayla,Company,9
+Daihatsu Ayla,Car model,9
+Daihatsu Ayla,Automotive manufacturer,9
+Daihatsu Ayla,Automobile make,7
+Daihatsu Ayla,Technical standard,7
+Daihatsu Ayla,Topic,7
+Daihatsu Ayla,Transmission classification,6
+Daihatsu Ayla,Automobile manufacturer,6
+Daihatsu Ayla,Automobile company,6
+Daihatsu Ayla,Car model,4
+Daihatsu Ayla,Company,4
+Daihatsu Ayla,Topic,4
+Mitsubishi Outlander,Automobile make,100
+Mitsubishi Outlander,Compact suvs,89
+Mitsubishi Outlander,Subcompact car,55
+Mitsubishi Outlander,Transportation mode,16
+Mitsubishi Outlander,Automotive manufacturer,13
+Mitsubishi Outlander,Automobile make,11
+Mitsubishi Outlander,Automobile make,9
+Mitsubishi Outlander,Car model,7
+Mitsubishi Outlander,Subcompact suvs,6
+Mitsubishi Outlander,Topic,5
+Mitsubishi Outlander,Drama series,5
+Mitsubishi Outlander,Topic,5
+Mitsubishi Outlander,Topic,4
+Mitsubishi Outlander,Car model,4
+Mitsubishi Outlander,Compact sport utility vehicle,4
+Mitsubishi Outlander,Topic,4
+Mitsubishi Outlander,Compact sport utility vehicle,4
+Mitsubishi Outlander,Automobile make,3
+Mitsubishi Outlander,PHEV,3
+Mitsubishi Outlander,Topic,3
+Mitsubishi Outlander,Automobile make,3
+Mitsubishi Outlander,Car model,3
+Mitsubishi Outlander,Company,3
+Mitsubishi Outlander,Compact sport utility vehicle,3
+Tata Nano,Car model,100
+Tata Nano,Automobile make,95
+Tata Nano,Transportation mode,66
+Tata Nano,Automotive manufacturer,15
+Tata Nano,Topic,7
+Tata Nano,Topic,4
+Tata Nano,Automobile manufacturer,3
+Tata Nano,Topic,3
+Tata Nano,Topic,3
+Tata Nano,Vehicle classification,3
+Tata Nano,Automobile manufacturer,3
+Tata Nano,Automobile make,2
+Tata Nano,Car model,2
+Tata Nano,Topic,2
+Tata Nano,Topic,2
+Tata Nano,Company,2
+Tata Nano,Automobile make,2
+Tata Nano,Car model,2
+Tata Nano,Car model,2
+Tata Nano,Automobile company,2
+Tata Nano,Topic,1
+Tata Nano,Topic,1
+Tata Nano,Automobile make,1
+Mitsubishi Mirage,Subcompact car,100
+Mitsubishi Mirage,Automobile make,97
+Mitsubishi Mirage,Transportation mode,24
+Mitsubishi Mirage,Automotive manufacturer,16
+Mitsubishi Mirage,Automobile make,11
+Mitsubishi Mirage,Automobile make,8
+Mitsubishi Mirage,Automobile make,7
+Mitsubishi Mirage,Topic,6
+Mitsubishi Mirage,Topic,5
+Mitsubishi Mirage,Automobile make,5
+Mitsubishi Mirage,Car model,5
+Mitsubishi Mirage,Topic,5
+Mitsubishi Mirage,Topic,4
+Mitsubishi Mirage,Car model,4
+Mitsubishi Mirage,Topic,4
+Mitsubishi Mirage,Automobile make,4
+Mitsubishi Mirage,Automobile make,4
+Mitsubishi Mirage,Automotive manufacturer,4
+Mitsubishi Mirage,Subcompact car,4
+Mitsubishi Mirage,Subcompact car,3
+Mitsubishi Mirage,Automobile company,3
+Mitsubishi Mirage,Topic,3
+Mitsubishi Mirage,Company,3
+Bentley Mulsanne,Automobile make,100
+Bentley Mulsanne,Luxury car,96
+Bentley Mulsanne,Manufacturing company,30
+Bentley Mulsanne,Transportation mode,13
+Bentley Mulsanne,Car make,9
+Bentley Mulsanne,Topic,9
+Bentley Mulsanne,Automobile make,4

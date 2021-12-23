@@ -1,0 +1,163 @@
+Source,Target,Weight
+Bucin,Topic,100
+Bucin,2020 film,98
+Bucin,Literary genre,31
+Bucin,Mobile game,16
+Bucin,Topic,9
+Bucin,Topic,9
+Bucin,Assessment,9
+Bucin,Topic,8
+Bucin,Poetic form,7
+Bucin,Topic,6
+Bucin,Game genre,4
+Ferguso,Topic,100
+Ferguso,Topic,75
+Ferguso,Mexican telenovela,33
+Ferguso,Topic,30
+Ferguso,Television genre,23
+Ferguso,Topic,17
+Ferguso,Scottish former association football manager,13
+Ferguso,Mexican telenovela,9
+Gerd,Medical condition,100
+Gerd,Topic,21
+Gerd,Topic,19
+Gerd,Topic,15
+Gerd,Chemical compound,11
+Gerd,Topic,10
+Gerd,Topic,8
+Gerd,Illness,6
+Gerd,Medical condition,6
+Gerd,Emotional disorder,5
+Gerd,Topic,4
+Gerd,Topic,4
+Gerd,Topic,4
+Gerd,Mental disorder,3
+Gerd,Topic,3
+Gerd,Topic,3
+Gerd,Topic,3
+Gerd,Disease,2
+Gerd,Topic,2
+Gerd,Topic,2
+Gerd,Disease,2
+Gerd,Vegetable,2
+Gerd,Syndrome,2
+Gerd,Topic,2
+Gerd,Topic,2
+KKN,Topic,100
+KKN,Film,34
+KKN,Topic,8
+KKN,Topic,6
+KKN,Province of Indonesia,6
+KKN,Topic,6
+KKN,Topic,5
+KKN,Topic,3
+KKN,Topic,3
+KKN,Topic,2
+KKN,"Public university in Yogyakarta, Indonesia",2
+KKN,Film genre,2
+KKN,Topic,2
+KKN,Town in Indonesia,1
+KKN,Topic,1
+KKN,Topic,1
+KKN,Profession,1
+KKN,University in Indonesia,1
+KKN,Topic,1
+KKN,Literary genre,1
+KKN,City in Indonesia,1
+KKN,Topic,0
+KKN,"University in Medan, Indonesia",0
+KKN,Malaysian television series,0
+KKN,Topic,0
+Unicorn,Mythical creature,100
+Unicorn,Topic,10
+Unicorn,Topic,9
+Unicorn,Food,6
+Unicorn,Computing,5
+Unicorn,Topic,3
+Unicorn,Topic,3
+Unicorn,Social networking website,3
+Unicorn,Fictional universe,3
+Unicorn,Topic,3
+Unicorn,Topic,2
+Unicorn,Animal,2
+Unicorn,Color,2
+Unicorn,Animal,2
+Unicorn,Topic,2
+Unicorn,Topic,2
+Unicorn,Frozen dessert,2
+Unicorn,Topic,2
+Unicorn,Cap,1
+Unicorn,TV program,1
+Unicorn,Fictional character,1
+Unicorn,Clothing,1
+Unicorn,Topic,1
+Unicorn,Topic,1
+Unicorn,Topic,0
+Japri,Topic,100
+Japri,Topic,54
+Japri,Topic,13
+Mukbang,Topic,100
+Mukbang,Spoken language,11
+Mukbang,Food,9
+Mukbang,Topic,9
+Mukbang,Topic,7
+Mukbang,Topic,7
+Mukbang,Indonesian dish,6
+Mukbang,Food,5
+Mukbang,Food,4
+Mukbang,Topic,3
+Mukbang,Topic,3
+Mukbang,Frozen dessert,2
+Mukbang,Animal,2
+Mukbang,Topic,2
+Mukbang,Internet celebrity,2
+Mukbang,Cuisine,2
+Mukbang,YouTuber,2
+Podcast,Topic,100
+Podcast,Downloadable software,14
+Podcast,Indonesian television presenter,6
+Podcast,Topic,4
+Podcast,Topic,2
+Podcast,Topic,2
+Podcast,App,2
+Podcast,Fictional device,2
+Podcast,Topic,1
+Podcast,Topic,1
+Podcast,Technology company,1
+Podcast,Topic,1
+Podcast,YouTuber,1
+Podcast,Topic,1
+Podcast,YouTuber,0
+Podcast,Media,0
+Podcast,Topic,0
+Podcast,Topic,0
+Podcast,Publishing company,0
+Santuy,Topic,100
+Santuy,Song by Fahmy Fay,69
+Santuy,Literary genre,53
+Santuy,Topic,29
+Santuy,School category,28
+Santuy,Topic,27
+Santuy,Topic,21
+Santuy,Topic,18
+Santuy,Television channel,16
+Santuy,Topic,15
+Halu,Topic,57
+Halu,Song by Feby Putri,47
+Halu,Musical artist,38
+Halu,Topic,10
+Halu,Topic,8
+Halu,Topic,7
+Halu,Song by Budi Doremi,6
+Halu,Song by Fiersa Besari,6
+Halu,"University in Kendari, Indonesia",6
+Halu,Commerce,4
+Halu,Topic,3
+Halu,Song by Mahen,3
+Halu,Song by Kahitna,3
+Halu,Album by Kahitna,2
+Halu,Song by Pasto-1,2
+Halu,Song by Celine & Nadya,2
+Halu,Song by Fiersa Besari,2
+Halu,Song by Chintya Gabriella,2
+Halu,Musical instrument,2

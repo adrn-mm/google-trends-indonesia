@@ -1,0 +1,118 @@
+Source,Target,Weight
+Komorbid,Comorbidity,100
+Komorbid,Disease,31
+Komorbid,Coronavirus disease 2019,24
+Komorbid,Vaccine,16
+Komorbid,Patient,5
+Komorbid,COVID-19 vaccine,4
+Komorbid,CoronaVac,4
+Komorbid,Coronavirus,4
+Komorbid,Asthma,3
+Komorbid,Diabetes,3
+Komorbid,Hypertension,2
+Komorbid,Gastroesophageal reflux disease,2
+Komorbid,Tuberculosis,2
+Komorbid,Moderna,1
+Komorbid,mRNA-1273,1
+Komorbid,Autoimmune disease,1
+Komorbid,Vaccination,1
+Komorbid,AstraZeneca,1
+Komorbid,Geriatrics,1
+Insecure,Colloquialism,100
+Insecure,Insecure,83
+Insecure,Feeling,29
+Insecure,Self-confidence,22
+Insecure,Gratitude,16
+Insecure,Ghosting,15
+Insecure,Extraversion and introversion,12
+Insecure,Toxicity,7
+Jamet,Colloquialism,100
+Jamet,Jamet Kuproy,50
+Jamet,hair,36
+Jamet,Necktie,11
+Jamet,Typing,10
+Jamet,Alay,8
+Jamet,Chess,7
+Jamet,Viral video,6
+Jamet,Madurese people,5
+Jamet,Bō,5
+Gelay,Language,100
+Gelay,Colloquialism,72
+Gelay,Nissa Sabyan,57
+Gelay,Viral video,17
+Gelay,Gaels,13
+Gelay,Abbreviation,6
+Gelay,Intention,6
+Mletre,Language,100
+Mletre,Colloquialism,66
+Mletre,Javanese language,48
+Mletre,Denny Caknan,21
+Ghosting,Ghosting,100
+Ghosting,Language,33
+Ghosting,Colloquialism,30
+Ghosting,Intention,4
+Ghosting,Online chat,4
+Ghosting,Toxicity,2
+Ghosting,Virtual reality,1
+Ghosting,Ghost,1
+Ghosting,Web hosting service,1
+Ghosting,TOMORROW X TOGETHER,1
+Ghosting,Roast,1
+Cepu,Cepu,100
+Cepu,Cepu,26
+Cepu,Dhyo Haw,14
+Cepu,Train,8
+Cepu,Cepu Station,6
+Cepu,Blora Regency,5
+Cepu,PPSDM Migas,5
+Cepu,Ada Aku Disini,4
+Cepu,Central Java,3
+Cepu,Kecewa,3
+Cepu,Pertamina Spbu,3
+Cepu,Pertamina,3
+Cepu,Blora,3
+Cepu,Bojonegoro,3
+Cepu,Higher School of Energy and Mineral Akamigas,3
+Cepu,Colloquialism,2
+Cepu,Chord,2
+Cepu,Oil refinery,1
+Cepu,Opor ayam,1
+Cepu,Bus station,0
+Cepu,Celengan Rindu,0
+Cepu,Zona Nyaman,0
+Cepu,Yang Terdalam,0
+Cepu,SMAN 2 Cepu,0
+Disleksia,Dyslexia,100
+Disleksia,Child,29
+Disleksia,Disease,18
+Disleksia,learning,11
+Disleksia,Attention deficit hyperactivity disorder,5
+Disleksia,Reading,4
+Disleksia,Deddy Corbuzier,3
+Disleksia,Therapy,3
+Disleksia,Learning disability,3
+Disleksia,Dyscalculia,3
+Disleksia,Dysgraphia,3
+Disleksia,Psychology,2
+Disleksia,Autism,2
+Disleksia,Symptom,2
+Disleksia,Disability,2
+Disleksia,Distraction,2
+Disleksia,Campomelic dysplasia,1
+Disleksia,Intellectual disability,1
+Lampor,Lampor: The Flying Casket,100
+Lampor,Film,34
+Lampor,Java,19
+Lampor,Ghost,11
+Lampor,Island,4
+Lampor,movie theater,4
+Lampor,Horror,4
+Lampor,Synopsis,3
+Lampor,True stories,2
+Lampor,Hoax,2
+Lampor,Temanggung,1
+Lampor,Satan,1
+Lampor,Myth,1
+Lampor,iflix,1
+Lampor,Impetigore,1
+Lampor,Cinépolis,1

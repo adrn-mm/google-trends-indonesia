@@ -1,0 +1,118 @@
+Source,Target,Weight
+Komorbid,Topic,100
+Komorbid,Topic,31
+Komorbid,Disease,24
+Komorbid,Topic,16
+Komorbid,Topic,5
+Komorbid,Vaccine,4
+Komorbid,Vaccine,4
+Komorbid,Virus,4
+Komorbid,Disease,3
+Komorbid,Disorder,3
+Komorbid,Medical condition,2
+Komorbid,Medical condition,2
+Komorbid,Disease,2
+Komorbid,Biotechnology company,1
+Komorbid,Vaccine,1
+Komorbid,Disease,1
+Komorbid,Topic,1
+Komorbid,Pharmaceutical industry company,1
+Komorbid,Medical specialty,1
+Insecure,Topic,100
+Insecure,Comedy-drama series,83
+Insecure,Topic,29
+Insecure,Topic,22
+Insecure,Topic,16
+Insecure,Topic,15
+Insecure,Topic,12
+Insecure,Topic,7
+Jamet,Topic,100
+Jamet,Video game,50
+Jamet,Topic,36
+Jamet,Attire,11
+Jamet,Topic,10
+Jamet,Topic,8
+Jamet,Game,7
+Jamet,Topic,6
+Jamet,Ethnic group,5
+Jamet,Topic,5
+Gelay,Topic,100
+Gelay,Topic,72
+Gelay,Indonesian singer,57
+Gelay,Topic,17
+Gelay,Ethnolinguistic group,13
+Gelay,Topic,6
+Gelay,Topic,6
+Mletre,Topic,100
+Mletre,Topic,66
+Mletre,Language dialect,48
+Mletre,Singer,21
+Ghosting,Topic,100
+Ghosting,Topic,33
+Ghosting,Topic,30
+Ghosting,Topic,4
+Ghosting,Topic,4
+Ghosting,Topic,2
+Ghosting,Topic,1
+Ghosting,Topic,1
+Ghosting,Topic,1
+Ghosting,Boy band,1
+Ghosting,Comedy,1
+Cepu,Blora,100
+Cepu,Song by Dhyo Haw,26
+Cepu,Singer,14
+Cepu,Means of transportation,8
+Cepu,Train station in Indonesia,6
+Cepu,Indonesian regency,5
+Cepu,Training centre in Indonesia,5
+Cepu,Song by Dhyo Haw,4
+Cepu,Province of Indonesia,3
+Cepu,Song by Dhyo Haw,3
+Cepu,Topic,3
+Cepu,Corporation,3
+Cepu,City in Indonesia,3
+Cepu,"Town in Java, Indonesia",3
+Cepu,University in Indonesia,3
+Cepu,Topic,2
+Cepu,Topic,2
+Cepu,Topic,1
+Cepu,Indonesian dish,1
+Cepu,Topic,0
+Cepu,Song by Fiersa Besari,0
+Cepu,Song by Fourtwnty,0
+Cepu,Song by Noah,0
+Cepu,Topic,0
+Disleksia,Disorder,100
+Disleksia,Topic,29
+Disleksia,Topic,18
+Disleksia,Topic,11
+Disleksia,Behavioral disorder,5
+Disleksia,Topic,4
+Disleksia,Indonesian television presenter,3
+Disleksia,Topic,3
+Disleksia,Disability,3
+Disleksia,Disability,3
+Disleksia,Disability,3
+Disleksia,Academic discipline,2
+Disleksia,Disorder,2
+Disleksia,Topic,2
+Disleksia,Topic,2
+Disleksia,Topic,2
+Disleksia,Genetic disorder,1
+Disleksia,Disability,1
+Lampor,2019 film,100
+Lampor,Topic,34
+Lampor,Island in Indonesia,19
+Lampor,Topic,11
+Lampor,Geographical feature category,4
+Lampor,Building function,4
+Lampor,Film genre,4
+Lampor,Topic,3
+Lampor,Film genre,2
+Lampor,Topic,2
+Lampor,Topic,1
+Lampor,God,1
+Lampor,Literary genre,1
+Lampor,TV network,1
+Lampor,2019 film,1
+Lampor,Topic,1

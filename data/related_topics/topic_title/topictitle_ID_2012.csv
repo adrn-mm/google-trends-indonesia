@@ -1,0 +1,206 @@
+Source,Target,Weight
+Toyota Agya,TOYOTA AGYA,100
+Toyota Agya,Toyota,97
+Toyota Agya,Price,43
+Toyota Agya,Car,36
+Toyota Agya,Toyota,28
+Toyota Agya,Toyota Astra Motor,25
+Toyota Agya,Honda,17
+Toyota Agya,Daihatsu Ayla,15
+Toyota Agya,Honda Brio,13
+Toyota Agya,Daihatsu Sigra,11
+Toyota Agya,Daihatsu,10
+Toyota Agya,Toyota Racing Development,9
+Toyota Agya,Credit,9
+Toyota Agya,TOYOTA CALYA,7
+Toyota Agya,Used car,7
+Toyota Agya,Suzuki,7
+Toyota Agya,Daihatsu,7
+Toyota Agya,Toyota Avanza,7
+Toyota Agya,Toyota Yaris,6
+Toyota Agya,TOYOTA AGYA,5
+Toyota Agya,Suzuki,5
+Toyota Agya,2016,4
+Toyota Agya,Honda Motor Company,4
+Honda Brio,Honda Brio,100
+Honda Brio,Honda,99
+Honda Brio,Price,35
+Honda Brio,Car,26
+Honda Brio,Honda Motor Company,10
+Honda Brio,Honda Fit,8
+Honda Brio,Toyota,6
+Honda Brio,Credit,5
+Honda Brio,TOYOTA AGYA,4
+Honda Brio,HONDA BRIO RS,3
+Honda Brio,Suzuki,3
+Honda Brio,Honda Mobilio,3
+Honda Brio,Used car,3
+Honda Brio,Toyota Avanza,3
+Honda Brio,latest,3
+Honda Brio,Daihatsu Ayla,3
+Honda Brio,Toyota Yaris,3
+Honda Brio,Manual transmission,3
+Honda Brio,2015,2
+Honda Brio,Toyota,2
+Honda Brio,Toyota Astra Motor,2
+Honda Brio,Continuously Variable Transmission,2
+Honda Brio,HONDA BRIO Satya E CVT,2
+Honda Brio,Suzuki,2
+Suzuki Ertiga,Suzuki Ertiga,100
+Suzuki Ertiga,Suzuki,100
+Suzuki Ertiga,Suzuki,78
+Suzuki Ertiga,Price,34
+Suzuki Ertiga,Car,27
+Suzuki Ertiga,Honda,9
+Suzuki Ertiga,Toyota,8
+Suzuki Ertiga,latest,7
+Suzuki Ertiga,Toyota Avanza,6
+Suzuki Ertiga,Diesel fuel,5
+Suzuki Ertiga,Honda Mobilio,5
+Suzuki Ertiga,Used car,4
+Suzuki Ertiga,2013,4
+Suzuki Ertiga,2016,4
+Suzuki Ertiga,2015,3
+Suzuki Ertiga,2014,3
+Suzuki Ertiga,SUZUKI ERTIGA GX,3
+Suzuki Ertiga,Toyota,3
+Suzuki Ertiga,Credit,3
+Suzuki Ertiga,Lexus GX,3
+Suzuki Ertiga,Specification,3
+Suzuki Ertiga,2012,3
+Mobil Esemka,Car,100
+Mobil Esemka,Esemka,94
+Mobil Esemka,Garuda Indonesia,8
+Mobil Esemka,Joko Widodo,4
+Mobil Esemka,Buatan,3
+Mobil Esemka,Factory,3
+Mobil Esemka,Pickup truck,2
+Mobil Esemka,Geely,2
+Mobil Esemka,Exhaust gas,2
+Mobil Esemka,Toyota Astra Motor,2
+Mobil Esemka,Ma'ruf Amin,1
+Mobil Esemka,Boyolali Regency,1
+Mobil Esemka,Boyolali,1
+Mobil Esemka,Car dealership,1
+Mobil Esemka,Mayor of Surakarta,0
+Mobil Esemka,Susilo Bambang Yudhoyono,0
+Mobil Esemka,Toyota Fortuner,0
+Nissan Evalia,Nissan NV200,100
+Nissan Evalia,Nissan,99
+Nissan Evalia,Car,25
+Nissan Evalia,Nissan,14
+Nissan Evalia,Nissan Motor Indonesia,10
+Nissan Evalia,2012,9
+Nissan Evalia,2013,8
+Nissan Evalia,Nissan Evalia,6
+Nissan Evalia,Nissan Serena,6
+Nissan Evalia,Used car,5
+Nissan Evalia,2014,4
+Nissan Evalia,Specification,4
+Nissan Evalia,Daihatsu,3
+Nissan Evalia,Interior design,3
+Nissan Evalia,Nissan Livina,3
+Nissan Evalia,Honda,3
+Nissan Evalia,Suzuki,3
+Nissan Evalia,OLX Group,3
+Nissan Evalia,Daihatsu Luxio,3
+Daihatsu Ayla,Daihatsu,100
+Daihatsu Ayla,Daihatsu Ayla,98
+Daihatsu Ayla,Daihatsu,76
+Daihatsu Ayla,Price,50
+Daihatsu Ayla,Car,36
+Daihatsu Ayla,TOYOTA AGYA,28
+Daihatsu Ayla,Toyota,20
+Daihatsu Ayla,Daihatsu Sigra,12
+Daihatsu Ayla,Honda,12
+Daihatsu Ayla,Credit,10
+Daihatsu Ayla,DAIHATSU AYLA,10
+Daihatsu Ayla,Toyota Astra Motor,9
+Daihatsu Ayla,Honda Brio,9
+Daihatsu Ayla,Toyota,9
+Daihatsu Ayla,Suzuki,7
+Daihatsu Ayla,Specification,7
+Daihatsu Ayla,Used car,7
+Daihatsu Ayla,Manual transmission,6
+Daihatsu Ayla,Nissan,6
+Daihatsu Ayla,Suzuki,6
+Daihatsu Ayla,Toyota Avanza,4
+Daihatsu Ayla,OLX Group,4
+Daihatsu Ayla,2014,4
+Mitsubishi Outlander,Mitsubishi,100
+Mitsubishi Outlander,Mitsubishi Outlander,89
+Mitsubishi Outlander,Mitsubishi RVR,55
+Mitsubishi Outlander,Car,16
+Mitsubishi Outlander,Mitsubishi Motors,13
+Mitsubishi Outlander,Honda,11
+Mitsubishi Outlander,Toyota,9
+Mitsubishi Outlander,Mitsubishi Xpander,7
+Mitsubishi Outlander,Honda HR-V,6
+Mitsubishi Outlander,2013,5
+Mitsubishi Outlander,Outlander,5
+Mitsubishi Outlander,2012,5
+Mitsubishi Outlander,2014,4
+Mitsubishi Outlander,Mitsubishi Pajero,4
+Mitsubishi Outlander,2017 Mitsubishi Outlander,4
+Mitsubishi Outlander,2016,4
+Mitsubishi Outlander,2018 Mitsubishi Outlander,4
+Mitsubishi Outlander,Suzuki,3
+Mitsubishi Outlander,Mitsubishi Outlander PHEV,3
+Mitsubishi Outlander,Used car,3
+Mitsubishi Outlander,Nissan,3
+Mitsubishi Outlander,Mitsubishi Outlander Sport,3
+Mitsubishi Outlander,Toyota Astra Motor,3
+Mitsubishi Outlander,2013 Mitsubishi Outlander,3
+Tata Nano,Tata Nano,100
+Tata Nano,Tata,95
+Tata Nano,Car,66
+Tata Nano,Tata Motors,15
+Tata Nano,Dealer,7
+Tata Nano,Car dealership,4
+Tata Nano,Nissan,3
+Tata Nano,Credit,3
+Tata Nano,"1,000,000",3
+Tata Nano,Light car,3
+Tata Nano,Daihatsu,3
+Tata Nano,Daihatsu,2
+Tata Nano,Datsun redi-Go,2
+Tata Nano,Pickup truck,2
+Tata Nano,Used car,2
+Tata Nano,OLX Group,2
+Tata Nano,Suzuki,2
+Tata Nano,Daihatsu Sigra,2
+Tata Nano,Daihatsu Ayla,2
+Tata Nano,Suzuki,2
+Tata Nano,Wheel,1
+Tata Nano,Electric car,1
+Tata Nano,Kia,1
+Mitsubishi Mirage,Mitsubishi Mirage,100
+Mitsubishi Mirage,Mitsubishi,97
+Mitsubishi Mirage,Car,24
+Mitsubishi Mirage,Mitsubishi Motors,16
+Mitsubishi Mirage,Honda,11
+Mitsubishi Mirage,Toyota,8
+Mitsubishi Mirage,Nissan,7
+Mitsubishi Mirage,2016,6
+Mitsubishi Mirage,2015,5
+Mitsubishi Mirage,Suzuki,5
+Mitsubishi Mirage,Nissan Micra,5
+Mitsubishi Mirage,2014,5
+Mitsubishi Mirage,TOYOTA AGYA,4
+Mitsubishi Mirage,Honda Brio,4
+Mitsubishi Mirage,2013,4
+Mitsubishi Mirage,Kia,4
+Mitsubishi Mirage,Daihatsu,4
+Mitsubishi Mirage,Toyota,4
+Mitsubishi Mirage,2015 Mitsubishi Mirage,4
+Mitsubishi Mirage,Honda Fit,3
+Mitsubishi Mirage,Suzuki,3
+Mitsubishi Mirage,2012,3
+Mitsubishi Mirage,Toyota Astra Motor,3
+Bentley Mulsanne,Bentley,100
+Bentley Mulsanne,Bentley Mulsanne,96
+Bentley Mulsanne,Bentley Motors Limited,30
+Bentley Mulsanne,Car,13
+Bentley Mulsanne,Rolls-Royce,9
+Bentley Mulsanne,Rolls-Royce Phantom,9
+Bentley Mulsanne,Mercedes-Benz,4
